@@ -1,0 +1,8 @@
+# Nmap 7.98 scan initiated Sun Sep  6 17:59:44 2026 as: /usr/lib/nmap/nmap --privileged --script vuln -oN /home/kali/vuln_scan_output.txt 192.168.229.137
+Nmap scan report for 192.168.229.137
+Host is up (0.00075s latency).
+All 1000 scanned ports on 192.168.229.137 are in ignored states.
+Not shown: 999 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+MAC Address: 00:0C:29:CB:BE:77 (VMware)
+
+# Nmap done at Sun Sep  6 18:00:15 2026 -- 1 IP address (1 host up) scanned in 31.61 seconds
