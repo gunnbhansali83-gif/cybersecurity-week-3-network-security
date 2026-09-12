@@ -1,0 +1,10 @@
+# Nmap 7.98 scan initiated Thu Sep 10 11:22:25 2026 as: /usr/lib/nmap/nmap --privileged -sV -oN nmap_task3.txt 192.168.198.129
+Nmap scan report for 192.168.198.129
+Host is up (0.00036s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.4.66 ((Ubuntu))
+MAC Address: 00:0C:29:CB:BE:77 (VMware)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Sep 10 11:22:43 2026 -- 1 IP address (1 host up) scanned in 17.78 seconds
